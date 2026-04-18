@@ -1,0 +1,9 @@
+{
+  "name": "EcoTrade Ghana",
+  "description": "A mobile platform for Ghanaians to trade plastic waste for rewards, track recycling lifecycles, and engage with a sustainable community.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
